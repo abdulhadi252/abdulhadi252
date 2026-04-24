@@ -1,11 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0e4d92,100:00d4ff&height=280&section=header&text=Abdul%20Hadi&fontSize=75&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=⚡%20Full%20Stack%20Web%20Developer%20%7C%20Pakistan%20🇵🇰%20⚡&descAlignY=63&descSize=20&descAlign=50&animation=fadeIn&stroke=00d4ff&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0e4d92,100:00d4ff&height=260&section=header&text=Abdul%20Hadi&fontSize=75&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=Web%20Developer%20%7C%20Code.%20Create.%20Innovate.&descAlignY=70&descSize=20&descAlign=50&animation=fadeIn&stroke=00d4ff&strokeWidth=2" />
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+there!+I'm+Abdul+Hadi+👋;Passionate+Programmer;Web+Developer+💻;Always+learning+new+things+🚀;Building+cool+projects+every+day+⚡" alt="Typing SVG" />
 </div>
 
 <br/>
