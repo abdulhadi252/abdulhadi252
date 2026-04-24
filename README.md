@@ -108,8 +108,9 @@
 <div align="center">
 
 ### 💬 Quote of the Day
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+> *"Every expert was once a beginner."*
+> *"Keep going."*
 
 </div>
 
