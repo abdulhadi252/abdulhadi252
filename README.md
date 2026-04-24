@@ -70,10 +70,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulhadi252&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80px" title="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80px" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80px" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80px" title="Starstruck" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80px" title="Galaxy Brain" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80px" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80px" title="Arctic Code Vault" />
 </div>
 
 ---
