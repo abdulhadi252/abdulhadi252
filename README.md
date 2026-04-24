@@ -1,36 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Hadi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Pakistan%20🇵🇰&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0e4d92,100:00d4ff&height=280&section=header&text=Abdul%20Hadi&fontSize=75&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=⚡%20Full%20Stack%20Web%20Developer%20%7C%20Pakistan%20🇵🇰%20⚡&descAlignY=63&descSize=20&descAlign=50&animation=fadeIn&stroke=00d4ff&strokeWidth=2" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Abdul+Hadi+👋;Passionate+Programmer+from+Pakistan+🇵🇰;Full+Stack+Web+Developer+💻;Always+learning+new+things+🚀;Building+cool+projects+every+day+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+there!+I'm+Abdul+Hadi+👋;Passionate+Programmer;Web+Developer+💻;Always+learning+new+things+🚀;Building+cool+projects+every+day+⚡" alt="Typing SVG" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulhadi252&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abdulhadi252?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
-</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```yaml
-name: Abdul Hadi
-location: Pakistan 🇵🇰
-role: Full Stack Web Developer
-languages: [HTML, CSS, JavaScript, PHP, MySQL]
-frameworks: [Laravel, Bootstrap]
-currently_learning: React.js & Vue.js
-hobbies: [Coding, Problem Solving, Building Projects]
-contact: abdul1729401@gmail.com
-```
 
 - 🔭 I'm currently working on **awesome web projects**
 - 🌱 I'm currently learning **React.js & Node.js**
