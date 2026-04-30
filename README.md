@@ -30,39 +30,29 @@ I believe great code is more than just making things work — it's about writing
 ## 💻 Console Output
 
 ```javascript
-/**
- * Abdul Hadi — Web Developer
- * Karachi, Pakistan
- */
-
+// Simple Developer Profile Object
 const developer = {
-  name        : "Abdul Hadi",
-  title       : "Web Developer",
-  location    : "Karachi, Pakistan",
-  email       : "abdul1729401@gmail.com",
-  github      : "github.com/abdulhadi252",
-
-  stack: {
-    frontend  : ["HTML5", "CSS3", "JavaScript", "Bootstrap", "React.js"],
-    backend   : ["PHP", "Laravel", "Node.js", "REST API"],
-    database  : ["MySQL"],
-    tools     : ["Git", "GitHub", "VS Code", "Postman"],
-  },
-
-  currentlyLearning : ["React.js", "Node.js", "Express.js"],
-  lookingFor        : "Exciting web development opportunities",
-  status            : "Available for hire ✅",
-
-  funFact : "I debug with console.log and I'm not ashamed 😄",
-
-  sayHello() {
-    console.log("Thanks for visiting my profile! Let's build something great 🚀");
-  },
+  name: "Abdul Hadi",
+  role: "Full Stack Developer",
+  skills: ["HTML", "CSS", "JavaScript", "Laravel"],
+  learning: ["React", "Node.js"],
+  isCoding: true
 };
 
-developer.sayHello();
+// Function to display profile
+function showProfile(dev) {
+  console.log(`👨‍💻 Name: ${dev.name}`);
+  console.log(`🚀 Role: ${dev.role}`);
+  console.log(`🛠 Skills: ${dev.skills.join(", ")}`);
+  console.log(`📚 Learning: ${dev.learning.join(", ")}`);
+  console.log(`🔥 Coding Status: ${dev.isCoding ? "Active" : "Inactive"}`);
+}
 
-// Output: Thanks for visiting my profile! Let's build something great 🚀
+// Run function
+showProfile(developer);
+
+// Motivation line
+console.log("💡 Keep building. Keep learning.");
 ```
 
 ---
