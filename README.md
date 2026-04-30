@@ -1,8 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdul+Hadi+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Code.+Create.+Innovate.+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+JavaScript)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1a,40:0a1628,70:0e3d7a,100:00d4ff&height=200&section=header&text=Abdul%20Hadi&fontSize=58&fontColor=ffffff&fontAlignY=52&fontAlign=50&desc=%3C%20Web%20Developer%20%2F%3E%20%E2%80%94%20Code.%20Create.%20Innovate.&descAlignY=74&descSize=15&descAlign=50&animation=twinkling&stroke=00d4ff&strokeWidth=1" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d92,100:00d4ff&height=180&section=header&text=Abdul%20Hadi&fontSize=52&fontColor=ffffff&fontAlignY=55&fontAlign=50&desc=Web%20Developer%20%E2%80%94%20Code.%20Create.%20Innovate.&descAlignY=78&descSize=16&descAlign=50&animation=twinkling" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Abdul+Hadi+%F0%9F%91%8B;Web+Developer+%7C+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Laravel;Currently+learning+React.js+%26+Node.js+%F0%9F%9A%80;Open+for+exciting+opportunities+%E2%9C%85)
 
 </div>
 
@@ -10,16 +10,16 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Hey! I'm **Abdul Hadi**, a passionate **Web Developer** based in **Karachi, Pakistan**. I love building clean, functional websites and turning ideas into real products. I started with the basics — HTML, CSS, JavaScript — and grew into full-stack development with PHP and Laravel on the backend, MySQL for databases, and now I'm leveling up with **React.js** and **Node.js** on the frontend and beyond.
+Hey! I'm **Abdul Hadi**, a passionate **Web Developer** from **Karachi, Pakistan**. I love building clean, functional websites — from pixel-perfect frontends to robust backends. I started my journey with HTML & CSS, then grew into full-stack development using **PHP and Laravel** on the backend with **MySQL** for databases. Now I'm leveling up with **React.js** and **Node.js** to become a complete full-stack developer.
 
 I believe great code is more than just making things work — it's about writing clean, readable, and maintainable solutions. Whether it's a landing page, a REST API, or a full-blown web app, I bring dedication and attention to detail to every project.
 
 - 🔭 Currently working on **awesome web projects**
 - 🌱 Currently learning **React.js & Node.js**
-- 👨‍💻 All my projects are at **[github.com/abdulhadi252](https://github.com/abdulhadi252)**
-- 📫 Reach me at **[abdul1729401@gmail.com](mailto:abdul1729401@gmail.com)**
+- 👨‍💻 All my projects: **[github.com/abdulhadi252](https://github.com/abdulhadi252)**
+- 📫 Reach me: **[abdul1729401@gmail.com](mailto:abdul1729401@gmail.com)**
 - 📍 Based in **Karachi, Pakistan**
 - ⚡ Fun fact: **I love turning ideas into working websites!**
 
@@ -32,7 +32,7 @@ I believe great code is more than just making things work — it's about writing
 ```javascript
 /**
  * Abdul Hadi — Web Developer
- * Karachi, Pakistan
+ * Karachi, Pakistan  |  github.com/abdulhadi252
  */
 
 const developer = {
@@ -49,20 +49,18 @@ const developer = {
     tools     : ["Git", "GitHub", "VS Code", "Postman"],
   },
 
-  currentlyLearning : ["React.js", "Node.js", "Express.js"],
-  lookingFor        : "Exciting web development opportunities",
-  status            : "Available for hire ✅",
-
-  funFact : "I debug with console.log and I'm not ashamed 😄",
+  learning    : ["React.js", "Node.js", "Express.js"],
+  status      : "Available for hire ✅",
+  funFact     : "I debug with console.log and I'm not ashamed 😄",
 
   sayHello() {
-    console.log("Thanks for visiting my profile! Let's build something great 🚀");
+    console.log("Thanks for visiting! Let's build something great 🚀");
   },
 };
 
 developer.sayHello();
 
-// Output: Thanks for visiting my profile! Let's build something great 🚀
+// Output: Thanks for visiting! Let's build something great 🚀
 ```
 
 ---
@@ -72,7 +70,6 @@ developer.sayHello();
 <div align="center">
 
 ### 🌐 Frontend
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -82,7 +79,6 @@ developer.sayHello();
 </p>
 
 ### ⚙️ Backend
-
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -91,13 +87,11 @@ developer.sayHello();
 </p>
 
 ### 🗄️ Database
-
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Platforms
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -109,20 +103,20 @@ developer.sayHello();
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 What I'm Building
 
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Working GIF" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="React GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="Building" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="React" />
 </div>
 
 <br/>
 
-- 🔨 Building full-stack web apps with **Laravel + MySQL**
-- ⚛️ Diving deep into **React.js** for dynamic frontends
-- 🌐 Learning **Node.js** and **Express.js** for backend APIs
-- 🚀 Improving my **Git workflow** and open-source contributions
+- 🔨 Full-stack web apps with **Laravel + MySQL**
+- ⚛️ Dynamic UIs with **React.js**
+- 🌐 Backend APIs using **Node.js + Express.js**
+- 🚀 Improving **Git workflow** & open-source contributions
 
 ---
 
@@ -131,11 +125,7 @@ developer.sayHello();
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulhadi252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadi252&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=css" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadi252&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadi252&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
 ---
@@ -151,9 +141,9 @@ developer.sayHello();
 ## 🏅 GitHub Achievements
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72px" title="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72px" title="Pull Shark" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72px" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72px" title="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="72px" title="Starstruck" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="72px" title="Galaxy Brain" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72px" title="Pair Extraordinaire" />
@@ -179,7 +169,6 @@ developer.sayHello();
 <div align="center">
 
 ### 💬 Quote of the Day
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/>
@@ -188,4 +177,4 @@ developer.sayHello();
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e4d92,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e4d92,100:060d1a&height=120&section=footer" />
