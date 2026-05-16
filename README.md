@@ -117,19 +117,7 @@ console.log("💡 Keep building. Keep learning.");
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulhadi252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadi252&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=css" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadi252&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
