@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Abdul Hadi" width="260" style="border-radius: 50%; margin-left: 20px;" src="https://raw.githubusercontent.com/abdulhadi252/abdulhadi252/main/profile%20image.png"/>
+<img align="right" alt="Abdul Hadi" width="380" style="border-radius: 50%; margin-left: 20px;" src="https://raw.githubusercontent.com/abdulhadi252/abdulhadi252/main/profile%20image.png"/>
 
 Hey! I'm **Abdul Hadi**, a passionate **Web Developer** based in **Karachi, Pakistan**. I love building clean, functional websites and turning ideas into real products. I started with the basics — HTML, CSS, JavaScript — and grew into full-stack development with PHP and Laravel on the backend, MySQL for databases, and now I'm leveling up with **React.js** and **Node.js** on the frontend and beyond.
 
